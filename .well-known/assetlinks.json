@@ -1,1 +1,12 @@
-
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sempo.goai",
+        "sha256_cert_fingerprints": [
+          "56:30:02:5F:E5:AB:9E:77:85:C3:B2:22:C8:16:66:56:1C:3E:81:C9:5F:EF:63:3A:61:6F:5F:A2:42:C0:19:ED"
+        ]
+      }
+    }
+  ]
